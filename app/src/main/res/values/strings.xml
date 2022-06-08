@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pass Email In Intent</string>
+    <string name="enter_your_email_subject">Enter Your Email Subject</string>
+</resources>
